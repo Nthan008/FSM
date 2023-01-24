@@ -23,7 +23,7 @@ S'O = B̅F̅ + S1F̅ + S0B̅
 ![Space N = 800](images/S0.png)
 
 #### S'1
-S'1 = S̅0̅F
+S'1 = S̅0F
 ![Space N = 800](images/S1.png)
 
 #### Output
