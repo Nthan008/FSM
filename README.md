@@ -39,4 +39,4 @@ The system is an elevator system circuit that receive inputs from button inputs.
 ![test](images/moving.png)
 
 - ### Opened (10)
-![test](Images/open.png)
+![test](images/open.png)
