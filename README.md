@@ -19,12 +19,15 @@ The system is an elevator system circuit that receive inputs from button inputs.
 ### Karnaugh Map:
 
 #### S'0
+S'O = B̅F̅ + S1F̅ + S0B̅
 ![Space N = 800](images/S0.png)
 
 #### S'1
+S'1 = S̅0̅F
 ![Space N = 800](images/S1.png)
 
 #### Output
+O = F̅ + S0
 ![Space N = 800](images/Output.png)
 
 
