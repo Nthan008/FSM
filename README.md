@@ -36,7 +36,7 @@ The system is an elevator system circuit that receive inputs from button inputs.
 ![test](images/close.png)
 
 - ### Moving (01)
-![test](images/moving.png)
+![test](images/moving.gif)
 
 - ### Opened (10)
 ![test](images/open.png)
