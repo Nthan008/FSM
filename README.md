@@ -29,16 +29,14 @@ The system is an elevator system circuit that receive inputs from button inputs.
 
 
 ## Visualisation
-I ran the code by using gcc manually.
-
+### Running the code
 ![run](images/test1.png)
 
-In the code i made, the state on the FSM starts at the doors closed (00) state. Below are all the possible outcomes that you can give
 - ### Closed (00)
 ![test](images/close.png)
 
 - ### Moving (01)
-![test](images/test4.png)
+![test](images/moving.png)
 
 - ### Opened (10)
-![test](Images/test6.png)
+![test](Images/open.png)
