@@ -30,7 +30,7 @@ The system is an elevator system circuit that receive inputs from button inputs.
 
 ## Visualisation
 ### Running the code
-![run](images/test1.png)
+![run](images/run.gif)
 
 - ### Closed (00)
 ![test](images/close.png)
